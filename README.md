@@ -8,7 +8,6 @@
 
 [Medusa](https://medusajs.com) module for Nuxt.
 
-- [▶️  &nbsp;Play online](https://stackblitz.com/github/nuxt-modules/medusa?file=.stackblitz%2Fnuxt.config.ts)
 - [📖 &nbsp;Documentation](https://medusa.nuxtjs.org)
 - [🎥 &nbsp;Intro video](https://www.youtube.com/watch?v=EuakPz8M7CM)
 - [✨ &nbsp;Release Notes](https://github.com/nuxt-modules/medusa/releases)
